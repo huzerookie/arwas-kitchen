@@ -22,7 +22,7 @@ app.use(express.static(publicPathDirectory));
 app.get("", (req, res) => {
   res.render("index", {
     title: "Arwa's Kitchen",
-    name: "Huzefa",
+    name: "Huzefa Nullwala",
   });
 });
 
