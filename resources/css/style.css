@@ -280,3 +280,7 @@ header {
   transform: scale(1.03);
   opacity: 1;
 }
+
+.footer {
+  text-align: center;
+}
